@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    height: 1000px;
+    background-color:#333;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #FFF;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #FCB62E;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #f8bf4e;
+}
